@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @edoaurahman
-- 👀 I’m interested in Web Programing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web and Mobile Programming
+- 🌱 I’m currently learning Flutter 
+- 📫 How to reach me, edoaurahman@gmail.com
 
 <!---
 edoaurahman/edoaurahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
