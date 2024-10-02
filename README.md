@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @edoaurahman
 - 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me, edoaurahman@gmail.com
 
 <!---
