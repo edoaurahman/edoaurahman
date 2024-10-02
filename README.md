@@ -1,3 +1,5 @@
+![image](./src/star-passing.gif)
+
 - 👋 Hi, I’m @edoaurahman
 - 👀 I’m interested in Web and Mobile Programming
 - 📫 How to reach me, edoaurahman@gmail.com
