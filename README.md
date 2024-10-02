@@ -1,5 +1,7 @@
-![image](./src/star-passing.gif)
+<div align="center">
 
+![image](./src/star-passing.gif)
+</div>
 
 <br>
 
@@ -16,8 +18,8 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edoaurahman&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoaurahman&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=edoaurahman&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoaurahman&layout=compact&theme=tokyonight" />
 </div>
 <br>
 
